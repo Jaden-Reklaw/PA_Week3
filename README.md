@@ -1,4 +1,6 @@
-Order of Week 3 Lessons
+Prime Academy Week 3
+
+Lessons Table of Contents
 
 - PA_W3_S1-1-Arrays.js
 - PA_W3-S1-2-Arrays.js
@@ -9,3 +11,5 @@ Order of Week 3 Lessons
 	- Loops_Practical
 		- index.html, Loops_Practical.js
 - PA_W3_S3-1-Teamwork.js
+
+
