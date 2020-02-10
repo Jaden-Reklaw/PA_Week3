@@ -1,4 +1,4 @@
-Prime Academy Week 3
+# Prime Academy Week 3
 
 Lessons Table of Contents
 
